@@ -10,7 +10,7 @@ As part of my Undergraduate Thesis (TFG), I developed a comparative framework to
 | Architecture | Accuracy | Latency | Use Case |
 | :--- | :--- | :--- | :--- |
 | **Custom CNN** | 98.2% | ~12ms | Real-time line inspection |
-| **VLM (Zero-shot)** | 92.5% | ~150ms | Complex anomaly description |
+| **VLM** | 96.3% | ~150ms | Complex anomaly description |
 
 ## 🛠️ Tech Stack
 - **Frameworks:** PyTorch, OpenCV, Transformers (Hugging Face).
